@@ -4,6 +4,7 @@
 
 #include <unicode/normlzr.h>
 #include <unicode/unistr.h>
+using namespace U_ICU_NAMESPACE;
 
 namespace nwc_toolkit {
 namespace {
